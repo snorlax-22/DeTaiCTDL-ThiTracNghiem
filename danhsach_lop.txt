@@ -1,2 +1,18 @@
-GASDFASDF,Asdf,0
 CNTT2,Cong Nghe Thong Tin 2,1
+ATTT1,An Toan Thong Tin 1,0
+HTTT3,He Thong Thong Tin 3,0
+D16CQCN01,Cong Nghe 1 Khoa 16,0
+D16CQCN02,Cong Nghe 2 Khoa 16,0
+D16CQCN03,Cong Nghe 3 Khoa 16,0
+D17CQCN01,Cong Nghe 1 Khoa 17,0
+D17CQCN02,Cong Nghe 2 Khoa 17,0
+D17CQCN03,Cong Nghe 3 Khoa 17,0
+D18CQCN01,Cong Nghe 1 Khoa 18,0
+D18CQCN02,Cong Nghe 2 Khoa 18,0
+D18CQCN03,Cong Nghe 3 Khoa 18,0
+D19CQCN01,Cong Nghe 1 Khoa 19,0
+D19CQCN02,Cong Nghe 2 Khoa 19,0
+D19CQCN03,Cong Nghe 3 Khoa 19,0
+D20CQCN01,Cong Nghe 1 Khoa 20,0
+D20CQCN02,Cong Nghe 2 Khoa 20,0
+D20CQCN03,Cong Nghe 3 Khoa 20,0
